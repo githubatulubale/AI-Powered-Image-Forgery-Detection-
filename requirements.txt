@@ -1,0 +1,13 @@
+# Core
+Django>=4.2
+djangorestframework>=3.14
+
+# Database (optional, if using PostgreSQL)
+psycopg2-binary>=2.9
+
+# Environment & Utilities
+python-dotenv>=1.0
+gunicorn>=20.1.0
+
+# For development
+ipython>=8.0
